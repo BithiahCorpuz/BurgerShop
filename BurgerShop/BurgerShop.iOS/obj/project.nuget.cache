@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dHuSxND+idXkzbvc4/BJyAEBkbKtws+oIC2L8ozOL61LDGv82+2TBtQ5iA9aikkvRl/TFwOZ0DgjmKzrR1E6GA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bithi\\source\\repos\\BurgerShop\\BurgerShop\\BurgerShop.iOS\\BurgerShop.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bithi\\.nuget\\packages\\microsoft.teamfoundationserver.extendedclient\\16.170.0\\microsoft.teamfoundationserver.extendedclient.16.170.0.nupkg.sha512",
+    "C:\\Users\\bithi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

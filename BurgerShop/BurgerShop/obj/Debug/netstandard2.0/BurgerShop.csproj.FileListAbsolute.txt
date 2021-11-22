@@ -1,0 +1,16 @@
+C:\Users\bithi\source\repos\BurgerShop\BurgerShop\BurgerShop\obj\Debug\netstandard2.0\BurgerShop.csproj.AssemblyReference.cache
+C:\Users\bithi\source\repos\BurgerShop\BurgerShop\BurgerShop\obj\Debug\netstandard2.0\BurgerShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bithi\source\repos\BurgerShop\BurgerShop\BurgerShop\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\bithi\source\repos\BurgerShop\BurgerShop\BurgerShop\obj\Debug\netstandard2.0\Views\DetailsPage.xaml.g.cs
+C:\Users\bithi\source\repos\BurgerShop\BurgerShop\BurgerShop\obj\Debug\netstandard2.0\Views\LandingPage.xaml.g.cs
+C:\Users\bithi\source\repos\BurgerShop\BurgerShop\BurgerShop\obj\Debug\netstandard2.0\BurgerShop.AssemblyInfoInputs.cache
+C:\Users\bithi\source\repos\BurgerShop\BurgerShop\BurgerShop\obj\Debug\netstandard2.0\BurgerShop.AssemblyInfo.cs
+C:\Users\bithi\source\repos\BurgerShop\BurgerShop\BurgerShop\obj\Debug\netstandard2.0\BurgerShop.csproj.CoreCompileInputs.cache
+C:\Users\bithi\source\repos\BurgerShop\BurgerShop\BurgerShop\bin\Debug\netstandard2.0\BurgerShop.deps.json
+C:\Users\bithi\source\repos\BurgerShop\BurgerShop\BurgerShop\bin\Debug\netstandard2.0\BurgerShop.dll
+C:\Users\bithi\source\repos\BurgerShop\BurgerShop\BurgerShop\bin\Debug\netstandard2.0\ref\BurgerShop.dll
+C:\Users\bithi\source\repos\BurgerShop\BurgerShop\BurgerShop\bin\Debug\netstandard2.0\BurgerShop.pdb
+C:\Users\bithi\source\repos\BurgerShop\BurgerShop\BurgerShop\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\bithi\source\repos\BurgerShop\BurgerShop\BurgerShop\obj\Debug\netstandard2.0\BurgerShop.dll
+C:\Users\bithi\source\repos\BurgerShop\BurgerShop\BurgerShop\obj\Debug\netstandard2.0\ref\BurgerShop.dll
+C:\Users\bithi\source\repos\BurgerShop\BurgerShop\BurgerShop\obj\Debug\netstandard2.0\BurgerShop.pdb
