@@ -11,7 +11,7 @@ namespace BurgerShop
         {
             InitializeComponent();
 
-            MainPage = new DetailsPage();
+            MainPage = new NavigationPage(new LandingPage());
         }
 
         protected override void OnStart()

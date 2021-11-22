@@ -58,10 +58,10 @@ namespace BurgerSpot.ViewModel
         {
             return new ObservableCollection<Burger>
             {
-                new Burger { Name = "CLASSIC", Price = 20.99f, Image = "classic.png", Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum est ultricies"},
+                new Burger { Name = "CLASSIC", Price = 20.99f, Image = "classic.png", Description = "Double Patty with melted cheese and bbq sauce"},
                 new Burger { Name = "DOUBLE", Price = 21.99f, Image = "twos.png", Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum est ultricies"},
                 new Burger { Name = "SHARK", Price = 16.29f, Image = "shark.png", Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum est ultricies"},
-                new Burger { Name = "CHICKEN", Price = 18.99f, Image = "Chicken_Burger.png", Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum est ultricies"},
+                new Burger { Name = "CHICKEN", Price = 18.99f, Image = "Chicken_Burger.jpeg", Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum est ultricies"},
                 new Burger { Name = "MEAT", Price = 23.99f, Image = "meat.png", Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum est ultricies"},
                 new Burger { Name = "BBQ", Price = 16.99f, Image = "bbq.png", Description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum est ultricies"}
             };

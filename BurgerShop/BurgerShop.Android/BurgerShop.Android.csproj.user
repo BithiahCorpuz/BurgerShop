@@ -4,5 +4,6 @@
     <SelectedDevice>Samsung SM-G955F</SelectedDevice>
     <ActiveDebugProfile>Samsung SM-G955F</ActiveDebugProfile>
     <ProjectView>ShowAllFiles</ProjectView>
+    <DefaultDevice>pixel_2_pie_9_0_-_api_28</DefaultDevice>
   </PropertyGroup>
 </Project>
