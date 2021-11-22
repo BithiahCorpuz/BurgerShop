@@ -3,6 +3,9 @@ using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
+[assembly: ExportFont("BebasNeue.ttf", Alias = "ThemeFont")]
+[assembly: ExportFont("Roboto.ttf", Alias = "LightFont")]
+
 namespace BurgerShop
 {
     public partial class App : Application
