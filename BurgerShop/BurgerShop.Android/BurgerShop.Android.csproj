@@ -123,7 +123,7 @@
     <AndroidResource Include="Resources\drawable\user.png" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Resources\drawable\Chicken-burger.jpeg" />
+    <AndroidResource Include="Resources\drawable\Chicken-burger.png" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Resources\drawable\doublpatty.jpeg" />

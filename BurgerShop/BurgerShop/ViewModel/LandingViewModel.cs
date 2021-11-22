@@ -59,7 +59,7 @@ namespace BurgerSpot.ViewModel
             return new ObservableCollection<Burger>
             {
                 new Burger { Name = "CLASSIC", Price = 20.99f, Image = "classic.png", Description = "Classic bacon burger with melted cheesse, lettuce and tomatoes"},
-                new Burger { Name = "DOUBLE", Price = 21.99f, Image = "doublpatty.jpeg", Description = "Double beef patty with mayonnase and lettuce"},
+                new Burger { Name = "DOUBLE", Price = 21.99f, Image = "doublpatty.png", Description = "Double beef patty with mayonnase and lettuce"},
                 new Burger { Name = "SHARK", Price = 16.29f, Image = "shark.png", Description = "Combined with beef and bacon meat with cheese, lettuce and tomatoes"},
                 new Burger { Name = "CHICKEN", Price = 18.99f, Image = "Chicken-burger.jpeg", Description = "Classic healthy chicken burger"},
                 new Burger { Name = "MEAT", Price = 23.99f, Image = "meat.png", Description = "Double Patty with melted cheese and bbq sauc"},
