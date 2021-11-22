@@ -18,7 +18,7 @@
                 <Image Source="cart.png" Aspect="AspectFit" WidthRequest="15" HeightRequest="15"/>
             </StackLayout>
             <StackLayout Spacing="0" HorizontalOptions="End" VerticalOptions="Start">
-                <Label Text="BURGER" TextColor="White" FontFamily="ThemeFont" FontSize="25" HorizontalOptions="End"/>
+                <Label Text="BURGER" TextColor="White" FontFamily="ThemeFont" FontSize="20" HorizontalOptions="End"/>
                 <Label Text="Shop" TextColor="White" Opacity="0.5" FontFamily="LightFont" FontSize="12" HorizontalOptions="End"/>
             </StackLayout>
         </Grid>
@@ -30,8 +30,8 @@
                     <RowDefinition Height="Auto"/>
                 </Grid.RowDefinitions>
                 <StackLayout Spacing="0" HorizontalOptions="Center" VerticalOptions="Start">
-                    <Label Text="{Binding SelectedBurger.Price, StringFormat='PHP{0}'}" TextColor="#F9B522" 
-                           FontFamily="ThemeFont" FontSize="50" HorizontalOptions="Center"/>
+                    <Label Text="{Binding SelectedBurger.Price, StringFormat='PHP{0}'}" TextColor="White" 
+                           FontFamily="ThemeFont" FontSize="30" HorizontalOptions="Center"/>
                     <Label Text="LIMITED TIME OFFER!" TextColor="White" Opacity="0.75" FontFamily="LightFont" FontSize="12" 
                            HorizontalOptions="Center"/>
                 </StackLayout>
@@ -40,9 +40,9 @@
                     <CarouselView.ItemTemplate>
                         <DataTemplate>
                             <Grid HorizontalOptions="FillAndExpand">
-                                <Label Text="{Binding Name}" TextColor="White" FontSize="105" FontFamily="ThemeFont" 
-                                       HorizontalOptions="Center"/>
-                                <Image Source="{Binding Image}" Aspect="Fill" Margin="0,-50,0,0" HeightRequest="210" 
+                                <Label Text="{Binding Name}" TextColor="Orange" FontSize="80" FontFamily="ThemeFont" 
+                                       HorizontalOptions="Center" />
+                                <Image Source="{Binding Image}" Aspect="Fill" Margin="0,-50,0,0" HeightRequest="200" 
                                        WidthRequest="235" HorizontalOptions="Center" VerticalOptions="End"/>
                             </Grid>
                         </DataTemplate>
@@ -57,10 +57,10 @@
                            FontFamily="ThemeFont" FontSize="25" HorizontalOptions="End"/>
                     <BoxView BackgroundColor="#F9B522" HeightRequest="2" WidthRequest="45" VerticalOptions="Start" 
                              HorizontalOptions="End"/>
-                    <Label Text="{Binding SelectedBurger.Description}" TextColor="White" WidthRequest="250" 
+                    <Label Text="{Binding SelectedBurger.Description}" TextColor="Orange" WidthRequest="250" 
                            FontFamily="LightFont" FontSize="12" HorizontalOptions="End" HorizontalTextAlignment="End"/>
                     <Button Text="ORDER NOW" TextColor="Black" Padding="20,5" HeightRequest="35" CornerRadius="17" 
-                            BackgroundColor="#F9B522" FontFamily="ThemeFont" HorizontalOptions="End"/>
+                            BackgroundColor="White" FontFamily="ThemeFont" HorizontalOptions="End"/>
                 </StackLayout>
             </Grid>
         </ScrollView>
